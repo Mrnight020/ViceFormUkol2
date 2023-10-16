@@ -1,0 +1,11 @@
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\bin\Debug\Ukol7.exe.config
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\bin\Debug\Ukol7.exe
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\bin\Debug\Ukol7.pdb
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.csproj.AssemblyReference.cache
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.csproj.SuggestedBindingRedirects.cache
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.Form1.resources
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.exe
+G:\Programování\4.ROČNÍK\Ukol7\Ukol7\obj\Debug\Ukol7.pdb
